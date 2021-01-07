@@ -85,3 +85,5 @@ CHIP Inc16 {
    Add16(a=in,b[0]=true,b[1..15]=false,out=out);
 }
 ```
+![71853](https://user-images.githubusercontent.com/55796905/103872921-fd3b2780-5109-11eb-93da-1dd7d030a357.jpg)
+![71854](https://user-images.githubusercontent.com/55796905/103872925-fe6c5480-5109-11eb-8de4-4b73142c12a7.jpg)
