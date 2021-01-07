@@ -356,5 +356,11 @@ CHIP DMux8Way {
 |  1  |  110  |  0  |  0  |  0  |  0  |  0  |  0  |  1  |  0  |
 |  1  |  111  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  1  |
 ```
+![20210107_154457](https://user-images.githubusercontent.com/55796905/103869121-de866200-5104-11eb-9e9b-1d1b58d8af33.jpg)
+![20210107_154428](https://user-images.githubusercontent.com/55796905/103869127-e0502580-5104-11eb-8b73-38ebf92291f6.jpg)
+![20210107_154435](https://user-images.githubusercontent.com/55796905/103869131-e1815280-5104-11eb-88d7-908865547ba8.jpg)
+![20210107_154453](https://user-images.githubusercontent.com/55796905/103869138-e2b27f80-5104-11eb-92b9-f66d101f2339.jpg)
+![20210107_154445](https://user-images.githubusercontent.com/55796905/103869139-e3e3ac80-5104-11eb-8038-a929c51a3243.jpg)
+
 
 
