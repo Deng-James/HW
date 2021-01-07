@@ -117,3 +117,4 @@ CHIP ALU {
    Not(in=o2,out=zr);
 }
 ```
+![20210107_172411](https://user-images.githubusercontent.com/55796905/103875665-ae8f8c80-510d-11eb-9984-4899765d601e.jpg)
