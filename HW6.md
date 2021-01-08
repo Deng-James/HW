@@ -158,3 +158,8 @@ CHIP RAM16K {
     Mux4Way16(a=r0,b=r1,c=r2,d=r3,sel=address[12..13],out=out);
 }
 ```
+![72010](https://user-images.githubusercontent.com/55796905/104030095-d06c3a80-5205-11eb-9a2c-431597d09f19.jpg)
+![72006](https://user-images.githubusercontent.com/55796905/104030098-d19d6780-5205-11eb-954b-3011c80d065e.jpg)
+![72008](https://user-images.githubusercontent.com/55796905/104030100-d3672b00-5205-11eb-99d4-ff3f5b225567.jpg)
+![72007](https://user-images.githubusercontent.com/55796905/104030106-d4985800-5205-11eb-97e2-65d49e3f0531.jpg)
+![72009](https://user-images.githubusercontent.com/55796905/104030112-d5c98500-5205-11eb-8c33-f56df50212ce.jpg)
