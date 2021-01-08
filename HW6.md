@@ -30,7 +30,7 @@ CHIP RAM8 {
     Mux8Way16(a=r0,b=r1,c=r2,d=r3,e=r4,f=r5,g=r6,h=r7,sel=address,out=out);
 }
 ```
-
+![72010](https://user-images.githubusercontent.com/55796905/104030095-d06c3a80-5205-11eb-9a2c-431597d09f19.jpg)
 > **2.RAM64**
 ```
 // This file is part of www.nand2tetris.org
@@ -63,7 +63,7 @@ CHIP RAM64 {
     Mux8Way16(a=r0,b=r1,c=r2,d=r3,e=r4,f=r5,g=r6,h=r7,sel=address[3..5],out=out);
 }
 ```
-
+![72009](https://user-images.githubusercontent.com/55796905/104030112-d5c98500-5205-11eb-8c33-f56df50212ce.jpg)
 > **3.RAM512**
 ```
 // This file is part of the materials accompanying the book 
@@ -96,7 +96,7 @@ CHIP RAM512 {
     Mux8Way16(a=r0,b=r1,c=r2,d=r3,e=r4,f=r5,g=r6,h=r7,sel=address[6..8],out=out);
 }
 ```
-
+![72008](https://user-images.githubusercontent.com/55796905/104030100-d3672b00-5205-11eb-99d4-ff3f5b225567.jpg)
 > **4.RAM4K**
 ```
 // This file is part of www.nand2tetris.org
@@ -129,7 +129,7 @@ CHIP RAM4K {
     Mux8Way16(a=r0,b=r1,c=r2,d=r3,e=r4,f=r5,g=r6,h=r7,sel=address[9..11],out=out);
 }
 ```
-
+![72007](https://user-images.githubusercontent.com/55796905/104030106-d4985800-5205-11eb-97e2-65d49e3f0531.jpg)
 > **5.RAM16K**
 ```
 // This file is part of www.nand2tetris.org
@@ -158,8 +158,8 @@ CHIP RAM16K {
     Mux4Way16(a=r0,b=r1,c=r2,d=r3,sel=address[12..13],out=out);
 }
 ```
-![72010](https://user-images.githubusercontent.com/55796905/104030095-d06c3a80-5205-11eb-9a2c-431597d09f19.jpg)
 ![72006](https://user-images.githubusercontent.com/55796905/104030098-d19d6780-5205-11eb-954b-3011c80d065e.jpg)
-![72008](https://user-images.githubusercontent.com/55796905/104030100-d3672b00-5205-11eb-99d4-ff3f5b225567.jpg)
-![72007](https://user-images.githubusercontent.com/55796905/104030106-d4985800-5205-11eb-97e2-65d49e3f0531.jpg)
-![72009](https://user-images.githubusercontent.com/55796905/104030112-d5c98500-5205-11eb-8c33-f56df50212ce.jpg)
+
+
+
+
