@@ -50,3 +50,4 @@ CHIP Register {
     Bit(in=in[0],  load=load, out=out[0]);
 }
 ```
+![01](https://user-images.githubusercontent.com/55796905/104025578-d232ff80-51ff-11eb-9b40-78ed12a9ead4.jpg)
