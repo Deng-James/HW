@@ -1,6 +1,6 @@
 > **mult.asm**
 
-*老師的C範例
+
 ```
 #include <stdio.h>
 
@@ -23,7 +23,7 @@ exit1:
 }
 ```
 
-*老師的mult.asm範例
+
 ```
 // #include <stdio.h>
 
