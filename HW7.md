@@ -21,3 +21,4 @@ CHIP PC {
     Register(in=outre,load=true,out=PC,out=out);
 }
 ```
+![08](https://user-images.githubusercontent.com/55796905/104085183-36010b00-5288-11eb-944f-306464c34187.jpg)
