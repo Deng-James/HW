@@ -68,3 +68,4 @@ M=M-1 //計數器-1
 //     printf("R2=%d\n", R2);
 // }
 ```
+![pitctureHW8](https://user-images.githubusercontent.com/55796905/104085952-66e43e80-528e-11eb-88c0-08b47ec4abe9.jpg)
